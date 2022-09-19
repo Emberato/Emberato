@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emberato
 - 👀 I’m interested in learning HTML, CSS, JavaScript & Python3 as a fullstack web developer 
-- 🌱 I’m currently learning via www.theODINproject.com
+- 🌱 I’m currently learning via www.theODINproject.com & www.FreeCodeCamp.org
 - 💞️ I’m looking to collaborate on any basic ROOKIE project
 - 📫 How to reach me ericsewell@protonmail.com
 
