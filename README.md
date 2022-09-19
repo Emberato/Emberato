@@ -2,7 +2,7 @@
 - 👀 I began learning HTML, CSS, JavaScript & Python3 in August 2022
 - My goal is to work my way towards being a rookie fullstack web developer by October 2023 
 - 🌱 I’m currently learning via www.theODINproject.com & www.FreeCodeCamp.org
-- 💞️ I’m looking to eventually know enough to collaborate on projects
+- 💞️ I will eventually know enough to collaborate on GitHub.com projects
 - 📫 How to reach me: ericsewell@protonmail.com
 
 <!---
